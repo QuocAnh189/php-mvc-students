@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "ramsey/uuid": "^4.7",
+        "catfan/medoo": "^2.1",
+        "respect/validation": "^2.3",
+        "ircmaxell/password-compat": "^1.0"
+    }
+}
